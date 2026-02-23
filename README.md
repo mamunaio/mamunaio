@@ -1,5 +1,6 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Md+Mamun+Hossain)](https://git.io/typing-svg)
+<br>
 CEO at Injaazh | SEO Specialist | WordPress & Junior Python Developer<br>I am a multi-disciplinary professional with a passion for building, optimizing, and growing digital platforms. As the CEO of Injaazh Pvt. Ltd., I focus on delivering high-quality web solutions and driving organic growth through strategic SEO.<br><br>🏢 CEO & Founder at Injaazh Pvt. Ltd.<br>💻 Freelance Developer specializing in WordPress and Python.<br>🚀 SEO Specialist with a proven track record of improving search rankings.<br>🛠️ Skills: WordPress Theme Customization, Full-stack WordPress Development, Junior Python Development.<br>🧠 Currently Learning: Advanced Python and AI-driven SEO strategies.<br>⚡ Interests: Dark Synthwave, Glitch Art, and Electronic Music Production.
 
 

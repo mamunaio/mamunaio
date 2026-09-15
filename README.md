@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🏢 Founder & CEO at [**Injaazh Private Limited**](https://injaazh.com/)
+- 🏢 Founder & CEO at [**Injaazh Global**](https://injaazh.com/)
 - 🔭 Working on **Injaazh ERP-OS**, **Automation Tools** & **Enterprise Web Solutions**
 - 💼 Freelance Developer specializing in **WordPress**, **Python**, and **Modern Web Tech**
 - 📈 **SEO Consultant** with a proven track record of boosting rankings & organic growth
